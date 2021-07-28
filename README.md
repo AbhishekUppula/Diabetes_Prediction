@@ -37,3 +37,5 @@ Class variable (0 or 1)
 The Accuracy of the test data predictions.
 
 Accuracy= No of Correct Predictions/Total No of Predictions
+
+For code please go through here https://github.com/AbhishekUppula/Diabetes_Prediction/blob/main/Untitled.ipynb
